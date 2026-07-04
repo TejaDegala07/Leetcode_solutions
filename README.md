@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,8 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0229-majority-element-ii) |
+## Greedy
+|  |
+| ------- |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 <!---LeetCode Topics End-->
