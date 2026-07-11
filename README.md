@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
