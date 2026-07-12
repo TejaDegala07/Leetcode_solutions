@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0904-fruit-into-baskets](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0904-fruit-into-baskets](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 ## Matrix
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
