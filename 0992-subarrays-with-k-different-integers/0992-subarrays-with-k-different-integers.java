@@ -2,8 +2,7 @@ class Solution {
     public int subarraysWithKDistinct(int[] nums, int k) {
 
         int ans=sac(nums,k)-sac(nums,k-1);
-        return ans;
-        
+        return ans; 
     }
 
     public static int sac(int[] nums,int k)
