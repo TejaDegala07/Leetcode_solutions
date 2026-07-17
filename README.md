@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0904-fruit-into-baskets](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0904-fruit-into-baskets](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Matrix
 |  |
@@ -81,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Number Theory
 |  |
