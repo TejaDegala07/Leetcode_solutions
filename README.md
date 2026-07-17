@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0229-majority-element-ii) |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0050-powx-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
