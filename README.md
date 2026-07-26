@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Counting
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0050-powx-n) |
+| [0628-maximum-product-of-three-numbers](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
