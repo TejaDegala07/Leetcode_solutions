@@ -8,12 +8,7 @@ class Solution {
         int dum=1;
         int i=0;
         if(s.charAt(i)=='-' || s.charAt(i)=='+') {
-            if(s.charAt(i)=='-'){
-            dum=-1;
-            }
-            else if(s.charAt(i)=='+'){
-                dum=1;
-            }
+            if(s.charAt(i)=='-') dum=-1;
             i++;
         }
 
