@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0686-repeated-string-match](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0686-repeated-string-match) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1392-longest-happy-prefix](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,4 +161,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1392-longest-happy-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
