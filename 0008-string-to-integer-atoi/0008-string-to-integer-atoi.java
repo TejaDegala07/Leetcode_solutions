@@ -1,7 +1,6 @@
 class Solution {
     public int myAtoi(String s) {
         
-        char neg=' ';
         long ans=0;
         s=s.trim();
         if(s.length()==0) return 0;
@@ -19,8 +18,6 @@ class Solution {
             if(dum==-1 && -ans<Integer.MIN_VALUE) return Integer.MIN_VALUE;
             i++;
         }
-
-
         return (int) (dum*ans);
     }
 }
