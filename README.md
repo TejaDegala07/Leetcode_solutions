@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0686-repeated-string-match](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0686-repeated-string-match) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Greedy
 |  |
@@ -173,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1392-longest-happy-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
