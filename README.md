@@ -209,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3819-rotate-non-negative-elements](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3819-rotate-non-negative-elements) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
