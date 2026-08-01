@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2643-row-with-maximum-ones](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/2643-row-with-maximum-ones) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3819-rotate-non-negative-elements](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3819-rotate-non-negative-elements) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [3819-rotate-non-negative-elements](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3819-rotate-non-negative-elements) |
 <!---LeetCode Topics End-->
