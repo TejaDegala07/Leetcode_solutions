@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0050-powx-n) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
