@@ -227,4 +227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
