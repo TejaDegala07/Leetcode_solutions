@@ -7,7 +7,8 @@ class Solution {
                 r--;
             }
             else{
-                return(chkpali(l+1,r,s) || chkpali(l,r-1,s));
+                if(chkpali(l+1,r,s) || chkpali(l,r-1,s)) return true;
+                else return false;
             }
         }
         return true;
