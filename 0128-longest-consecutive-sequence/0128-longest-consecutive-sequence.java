@@ -19,7 +19,6 @@ class Solution {
                 {
                     curr++;
                     count++;
-             
                 }
                 ans=Math.max(ans,count);
             }
