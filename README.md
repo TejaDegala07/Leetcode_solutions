@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3819-rotate-non-negative-elements](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3819-rotate-non-negative-elements) |
 ## Linked List
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
