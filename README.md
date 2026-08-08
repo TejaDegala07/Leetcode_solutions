@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0125-valid-palindrome) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0682-baseball-game) |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
