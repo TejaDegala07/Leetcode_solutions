@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0706-design-hashmap) |
+| [0735-asteroid-collision](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0881-boats-to-save-people](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3819-rotate-non-negative-elements](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3819-rotate-non-negative-elements) |
 ## Linked List
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
