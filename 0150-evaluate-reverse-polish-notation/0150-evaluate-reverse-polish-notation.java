@@ -3,38 +3,17 @@ class Solution {
         int ans=0;
         Stack<Integer> st=new Stack<>();
         for(String tk:tokens){
-            if(!st.isEmpty()){
-                int pk=st.pop();
-                if(tk.equals("+")) {
-                    int nd=pk+st.peek();
-                    st.pop();
-                    st.push(nd);
-                }
-                else if(tk.equals("*")){
-                    int nd=pk*st.peek();
-                    st.pop();
-                    st.push(nd);
-                }
-                else if(tk.equals("-")){
-                    int nd=st.peek()-pk;
-                    st.pop();
-                    st.push(nd);
-                }
-                else if(tk.equals("/")){
-                    int nd=st.peek()/pk;
-                    st.pop();
-                    st.push(nd);
-                }
-                
-                else {
-                    st.push(pk);
-                    st.push(Integer.parseInt(tk));
-                }
+            if(tk.equals("+")||tk.equals("-")
+            ||tk.equals("/")||tk.equals("*")){
+                int a=st.pop();
+                int b=st.pop();
+                if(tk.equals("+")) st.push(a+b);
+                else if(tk.equals("-")) st.push(b-a);
+                else if(tk.equals("*")) st.push(b*a);
+                else if(tk.equals("/")) st.push(b/a);
             }
             else{
-                if(!tk.equals("+") && !tk.equals("*") &&!tk.equals("/")&&!tk.equals("-")){
-                    st.push(Integer.parseInt(tk));
-                }
+                st.push(Integer.parseInt(tk));
             }
             
         }
