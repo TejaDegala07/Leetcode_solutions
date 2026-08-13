@@ -17,7 +17,6 @@ class Solution {
         }
         return max;
     }
-
     public boolean noofdays(int[] weights,int days,int mid){
         int sum=0,day=1;
         for(int i=0;i<weights.length;i++){
