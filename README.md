@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -375,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
