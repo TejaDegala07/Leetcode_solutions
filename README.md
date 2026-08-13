@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0735-asteroid-collision) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+| [0704-binary-search](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
