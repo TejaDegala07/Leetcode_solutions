@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0075-sort-colors) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0189-rotate-array) |
