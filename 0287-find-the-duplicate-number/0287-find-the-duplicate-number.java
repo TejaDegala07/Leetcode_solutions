@@ -1,18 +1,11 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-        int slow=nums[nums[0]],fast=nums[nums[nums[0]]];
-
-        while(fast!=slow){
-            slow=nums[slow];
-            fast=nums[nums[fast]];
-        }
-        slow=nums[0];
-
-        while(slow!=fast){
-            slow=nums[slow];
-            fast=nums[fast];
+        boolean[] arr=new boolean[nums.length+1];
+        for(int i:nums){
+            if(arr[i]) return i;
+            arr[i]=true;
         }
 
-        return slow;
+        return -1;
     }
 }
