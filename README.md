@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3819-rotate-non-negative-elements](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3819-rotate-non-negative-elements) |
+| [3903-smallest-stable-index-i](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3903-smallest-stable-index-i](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 ## Number Theory
 |  |
 | ------- |
