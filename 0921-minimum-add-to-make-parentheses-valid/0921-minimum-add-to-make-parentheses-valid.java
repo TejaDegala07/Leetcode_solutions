@@ -1,16 +1,18 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        Stack<Character> st=new Stack<>();
+        int dpth=0,ans=0;
+
         for(char ch:s.toCharArray()){
-            if(st.isEmpty())st.push(ch);
-            else {
-                if(ch==')'){
-                    if(st.peek()=='(') st.pop();
-                    else st.push(ch);
+            if(ch=='(') dpth++;
+            else{
+                dpth--;
+                if(dpth<0){
+                    ans++;
+                    dpth=0;
                 }
-                else st.push(ch);
             }
         }
-        return st.size();
+
+        return ans+dpth;
     }
 }
