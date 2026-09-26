@@ -5,7 +5,7 @@ class Solution {
             mpp.put(knowledge.get(l).get(0),knowledge.get(l).get(1));
         }
         int i=0,j=0;
-        String ans="";
+        StringBuilder ans=new StringBuilder();
         while(i<s.length()){
             if(s.charAt(i)=='('){
                 j=i+1;
@@ -13,16 +13,16 @@ class Solution {
                     j++;
                 }
                 String dummy=s.substring(i+1,j);
-                if(mpp.containsKey(dummy)) ans+=mpp.get(dummy);
-                else ans+='?';
+                if(mpp.containsKey(dummy)) ans.append(mpp.get(dummy));
+                else ans.append("?");
 
                 i=j+1;
             }
             else {
-                ans+=s.charAt(i);
+                ans.append(s.charAt(i));
                 i++;
             }
         }
-        return ans;
+        return ans.toString();
     }
 }
