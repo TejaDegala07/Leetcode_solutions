@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3871-count-commas-in-range-ii) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Sliding Window
 |  |
 | ------- |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Divide and Conquer
 |  |
 | ------- |
