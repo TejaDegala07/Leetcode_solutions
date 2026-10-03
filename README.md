@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0169-majority-element) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0143-reorder-list) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0148-sort-list) |
 ## Breadth-First Search
 |  |
@@ -549,4 +553,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0022-generate-parentheses) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TejaDegala07/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
